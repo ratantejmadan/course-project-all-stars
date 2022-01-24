@@ -1,6 +1,6 @@
 ## Hospital Management System
 Team Members: 
-Ratan, 
+Ratantej Madan, 
 Roa, 
 Alessandro, 
 Ernest, 
@@ -12,10 +12,6 @@ The Hospital Management System designed by All Stars, is a state of the art pati
 
 ## Libraries Used
 Postgres SQL Driver - https://jdbc.postgresql.org/download.html
-
-## Google Cloud SQL Connection Details
-Public IP Address: 34.121.72.40
-Connection Name: stone-dispatch-334004:us-central1:hospitaldatabase
 
 ## Last Release
 Latest Release (December 8, 2021): v2.0.0
