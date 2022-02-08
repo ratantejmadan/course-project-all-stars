@@ -6,7 +6,7 @@ administrators with patient intake across a network of hospitals.
 
 The end users have the option to navigate across all different homepages of the program.
 
-###The end users (**administrators**) should be able to do interact with the following options in the homepage:
+### The end users (**administrators**) should be able to do interact with the following options in the homepage:
 
 > - The SelectHospital option allows administrators to pick a hospital from a preexisting
     network in our database.
